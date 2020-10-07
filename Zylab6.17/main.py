@@ -1,3 +1,6 @@
+#Githin Kurian
+#1580561
+
 word = input()
 password = ''
 
