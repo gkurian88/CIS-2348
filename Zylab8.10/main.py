@@ -1,3 +1,6 @@
+#Githin Kurian
+#1580561
+
 if __name__ == '__main__':
     user_input = input()
     normal = ""
