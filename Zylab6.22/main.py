@@ -1,3 +1,6 @@
+#Githin Kurian
+#1580561
+
 ''' Read in first equation, ax + by = c '''
 a = int(input())
 b = int(input())
