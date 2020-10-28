@@ -1,3 +1,6 @@
+#Githin Kurian
+#1580561
+
 class FoodItem:
     # TODO: Define constructor with parameters to initialize instance 
     #       attributes (name, fat, carbs, protein)
