@@ -6,13 +6,13 @@ x = input()
 
 x = x.split(" ")
 
-d = {}
+y = {}
 
-for each in x:
-    if each in d:
-        d[each] = d[each] + 1 
+for i in x:
+    if i in y:
+        y[i] = y[i] + 1 
     else:
-        d[each] = 1
+        y[i] = 1
 
-for each in x:
-    print(each, d[each])
+for i in x:
+    print(i, y[i])
